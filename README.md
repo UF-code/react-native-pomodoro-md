@@ -1,4 +1,4 @@
-# Pomodoro
+# Pomodoro Timer
 
 # Tech Stack
 React, React Native, JavaScript, CSS
